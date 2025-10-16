@@ -1,0 +1,14 @@
+{
+  "Aries": {"month": "March-April", "traits": ["Adventurous", "Energetic", "Confident"]},
+  "Taurus": {"month": "April-May", "traits": ["Stable", "Patient", "Romantic"]},
+  "Gemini": {"month": "May-June", "traits": ["Curious", "Adaptable", "Playful"]},
+  "Cancer": {"month": "June-July", "traits": ["Emotional", "Nurturing", "Loyal"]},
+  "Leo": {"month": "July-August", "traits": ["Charismatic", "Warm", "Proud"]},
+  "Virgo": {"month": "August-September", "traits": ["Logical", "Practical", "Analytical"]},
+  "Libra": {"month": "September-October", "traits": ["Balanced", "Fair", "Romantic"]},
+  "Scorpio": {"month": "October-November", "traits": ["Intense", "Mysterious", "Passionate"]},
+  "Sagittarius": {"month": "November-December", "traits": ["Adventurous", "Optimistic", "Free-Spirited"]},
+  "Capricorn": {"month": "December-January", "traits": ["Disciplined", "Responsible", "Wise"]},
+  "Aquarius": {"month": "January-February", "traits": ["Innovative", "Independent", "Visionary"]},
+  "Pisces": {"month": "February-March", "traits": ["Emotional", "Dreamy", "Empathetic"]}
+}
