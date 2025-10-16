@@ -47,7 +47,35 @@ const questions = [
       { text: "Calm and dependable", trait: "S" },
     ],
   },
+  {
+    question: "How do you handle conflicts in relationships?",
+    options: [
+      { text: "Talk it out calmly", trait: "L" },
+      { text: "Get emotional and expressive", trait: "E" },
+      { text: "Withdraw until things cool down", trait: "S" },
+      { text: "Act impulsively or defensively", trait: "A" },
+    ],
+  },
+  {
+    question: "What do you expect from your partner the most?",
+    options: [
+      { text: "Emotional understanding", trait: "E" },
+      { text: "Adventure and fun", trait: "A" },
+      { text: "Stability and trust", trait: "S" },
+      { text: "Intellectual connection", trait: "L" },
+    ],
+  },
+  {
+    question: "What’s your love language?",
+    options: [
+      { text: "Quality Time", trait: "E" },
+      { text: "Acts of Service", trait: "S" },
+      { text: "Physical Touch", trait: "A" },
+      { text: "Words of Affirmation", trait: "L" },
+    ],
+  },
 ];
+
 
 // --- State Variables ---
 let currentQuestion = 0;
